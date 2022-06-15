@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "nerdle_unlimited",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "nerdle_unlimited (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "temp_cli_shit",
+            "cwd": "temp_cli_shit",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
